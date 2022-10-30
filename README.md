@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VueJS and NuxtJS**
 
-- 📝 I regularly write articles on [https://inbytes.dev/azelalynetan/](https://inbytes.dev/azelalynetan/)
+- 📝 I regularly write articles on [Inbytes.dev](https://inbytes.dev/azelalynetan/)
 
 - 📫 How to reach me **azelalynetan@gmail.com**
 
